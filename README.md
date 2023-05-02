@@ -1,6 +1,7 @@
 # PWA-JATE19: JustAnotherTextEditor
 
 ## Deployed Link
+https://shielded-wildwood-93958.herokuapp.com/
 
 ## Description
 
